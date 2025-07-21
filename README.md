@@ -1,0 +1,2 @@
+# What is this project?
+This project is an app built for restaurant owners and its customers. It's a website where the user can see the restaurant's menu, can order and can see what meals are currently available.
